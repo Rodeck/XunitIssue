@@ -1,0 +1,22 @@
+--temp-output:C:\Users\gpajak\Documents\Visual Studio 2015\Projects\ConsoleApp2\src\ConsoleApp2\obj\Debug\net461\
+--out:C:\Users\gpajak\Documents\Visual Studio 2015\Projects\ConsoleApp2\src\ConsoleApp2\bin\Debug\net461\ConsoleApp2.exe
+--define:DEBUG
+--define:TRACE
+--define:NET461
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--platform:x64
+--optimize:False
+--emit-entry-point:True
+--output-name:ConsoleApp2
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.6.1
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Microsoft.CSharp.dll
+C:\Users\gpajak\Documents\Visual Studio 2015\Projects\ConsoleApp2\src\ConsoleApp2\Program.cs
+C:\Users\gpajak\Documents\Visual Studio 2015\Projects\ConsoleApp2\src\ConsoleApp2\Properties\AssemblyInfo.cs
